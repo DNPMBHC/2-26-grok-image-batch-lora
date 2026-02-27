@@ -1,4 +1,5 @@
 # 图片批处理调度台
+<img width="1408" height="1399" alt="image" src="https://github.com/user-attachments/assets/82390f03-f236-43d7-a904-93cd596b97d1" />
 
 ## 功能概览
 
